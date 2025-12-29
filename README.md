@@ -1,4 +1,4 @@
-Installation & Setup
+# Installation & Setup
 1. Prerequisites
 Ensure you have Python 3.8+ installed. You can check your version by running:
 Bash
@@ -12,11 +12,11 @@ cd RL-bonus
 3. Create a Virtual Environment 
 Bash
 
-# Windows
+## Windows
 python -m venv venv
 venv\Scripts\activate
 
-# macOS/Linux
+## macOS/Linux
 python3 -m venv venv
 source venv/bin/activate
 
